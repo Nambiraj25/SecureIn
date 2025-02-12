@@ -103,16 +103,19 @@ The generated reports serve as a crucial resource for security teams, offering i
 
 <h2>Contributors</h2>
 
-**BHARATH P** - [LinkedIn](https://www.linkedin.com/in/bharath-p-datascientist/) [Github](https://github.com/bharath2468)
+**BHARATH P** - [LinkedIn](https://www.linkedin.com/in/bharath-p-datascientist/) - [Github](https://github.com/bharath2468)
 
-**NAMBIRAJ** - [LinkedIn](https://www.linkedin.com/in/nambiraj-r-m-5461aa238/?originalSubdomain=in) [Github](https://github.com/Nambiraj25)
+**NAMBIRAJ** - [LinkedIn](https://www.linkedin.com/in/nambiraj-r-m-5461aa238/?originalSubdomain=in) - [Github](https://github.com/Nambiraj25)
 
-**Arshad Ahamed N**- [LinkedIn](https://in.linkedin.com/in/arshad-ahamed-n-b49ab3195) [Github](https://github.com/ArshadAhamed123)
+**Arshad Ahamed N** - [LinkedIn](https://in.linkedin.com/in/arshad-ahamed-n-b49ab3195) - [Github](https://github.com/ArshadAhamed123)
 
-**Arvind Manivel. A** - [LinkedIn](https://www.linkedin.com/in/arvind-manivel-arun-561b71284/) [Github](https://github.com/Arvind-0314)
+**Arvind Manivel. A** - [LinkedIn](https://www.linkedin.com/in/arvind-manivel-arun-561b71284/) - [Github](https://github.com/Arvind-0314)
 
-**NAVEEN KUMAR** - [LinkedIn]() [Github](https://github.com/Naveenkumar1925)
+**Abhishek Gupta I** - [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-12324a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - [Github](https://github.com/Abhishekgupta2925/Abhishek-Gupta-I)
 
+**NAVEEN KUMAR** - [LinkedIn](https://www.linkedin.com/in/naveenkumar-sivarajan-5b93a7296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - [Github](https://github.com/Naveenkumar1925)
+
+**Anto Jeffrin G** - [LinkedIn](https://www.linkedin.com/in/anto-jeffrin-g-90b352287/?originalSubdomain=in) - [Github](https://github.com/AntoJeffrinG)
 
 <h2>License</h2>
 

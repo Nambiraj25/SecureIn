@@ -23,7 +23,7 @@ The core of the pentesting process involves testing the LLM by using an automate
 Once the pentesting phase is complete, the next step is to generate a detailed report that summarizes the findings and provides actionable insights. Llama 3.3, a reporting tool, is used to automatically generate structured reports based on the collected data, the results of the pentesting attacks, and the model’s responses. These reports provide a comprehensive overview of the vulnerabilities that were identified, the severity of each issue, and suggestions for mitigation. To ensure that the findings are aligned with industry-recognized security standards, the results are mapped to established security frameworks, such as the MITRE ATLAS (Adversarial Tactics, Techniques, and Common Knowledge) and the OWASP Top 10 for LLMs. This step ensures that the pentesting results are contextualized within a broader security landscape, helping developers and security professionals understand the model’s vulnerabilities in relation to known attack tactics and strategies. In addition to the textual report, visualizations are created to make the findings more digestible. These visualizations include graphs, charts, and heatmaps that illustrate key metrics, such as attack success rates, the distribution of vulnerabilities across different categories, and the effectiveness of various mitigation strategies. The visual aids not only help in understanding the security posture of the LLM but also serve as a useful tool for stakeholders to quickly grasp the areas of concern and prioritize remediation efforts.
 <h2>Flowchart</h2>
 
-![Flow Chart](Screenshots\FlowChart.jpeg)
+![Flow Chart](Screenshots/FlowChart.jpeg)
 
 
 <h2>Installation Setup</h2>
@@ -31,28 +31,38 @@ Follow these steps to set up and run the project:
 
 <h3>1. Clone this repository</h3>
 
-```git clone https://github.com/bharath2468/SecureIn.git```
+```
+git clone https://github.com/bharath2468/SecureIn.git
+```
 
 <h3>2. Install Python packages</h3>
 
-``` cd backend ```
-```pip install -r requirements.txt```
+```
+cd backend
+pip install -r requirements.txt
+```
 
 
 <h3>3. Install Node dependencies</h3>
 
-``` cd frontend ```
-```npm install```
+```
+cd frontend
+npm install
+```
 
 <h3>4. Run the backend</h3>
 
 Inside backend/
-```python main.py ```
+```
+python main.py
+```
 
 <h3>5. Run the frontend</h3>
 
 Inside frontend/
-```npm run dev```
+```
+npm run dev
+```
 
 Your website will be available at http://localhost:5173/
 
@@ -74,31 +84,31 @@ The generated reports serve as a crucial resource for security teams, offering i
 
 <h4>Home Page</h4>
 
-![Home Page](Screenshots\homepage.png)
+![Home Page](Screenshots/homepage.png)
 
 <h4>Output</h4>
 
-![Output](Screenshots\download.png)
+![Output](Screenshots/download.png)
 
 <h4>Sentiment Analysis</h4>
 
-![Sentiment](Screenshots\sentiment.jpg)
+![Sentiment](Screenshots/sentiment.jpg)
 
 <h4>Security Leak Analysis</h4>
 
-![Security](Screenshots\security.jpg)
+![Security](Screenshots/security.jpg)
 
 <h4>Reponse Analysis</h4>
 
-![Reponse](Screenshots\response.jpg)
+![Reponse](Screenshots/response.jpg)
 
 <h4>Report</h4>
 
-![Report](Screenshots\report.jpg)
+![Report](Screenshots/report.jpg)
 
 <h4>CSV File </h4>
 
-![CSV](Screenshots\csv.png)
+![CSV](Screenshots/csv.png)
 
 
 <h2>Contributors</h2>

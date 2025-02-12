@@ -1,0 +1,255 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+
+/* Ensure body covers the full page */
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #ffffff, #d4d4d4);
+  display: flex;
+  flex-direction: column;
+}
+
+.video-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color:rgb(9, 4, 99);
+}
+
+.header{
+  color: white;
+  padding-left: 20px;
+}
+
+.account-buttons{
+  width: 180px;
+  gap: 10px;
+  padding-top: 15px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Ensure the main container stretches fully */
+.container {
+  width: 97%;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.title{
+  color: azure;
+  font-size:xx-large;
+  font-weight:500px;
+}
+
+.custom-label {
+  color: #ffffff; /* Orange */
+  font-weight: 500;
+}
+
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.rounded-xl {
+  border-radius: 36px;
+}
+
+.shadow-xl {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+              0 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+.shadow-lg {
+    border-radius: 120px;
+}
+
+.p-8 {
+  padding: 32px;
+  height: auto;
+}
+
+.result{
+  display: flex;
+  width: 100%;
+  justify-items: center;
+  justify-content: center;
+}
+
+.download-button{
+  width: 100%;
+  display: flex;
+  width: 200px;
+  justify-items: center;
+  justify-content: space-between;
+}
+
+.text-3xl {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.mb-6 {
+  margin-bottom: 24px;
+}
+
+.space-y-6 > * + * {
+  margin-top: 24px;
+}
+
+.space-y-2 > * + * {
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+
+.block {
+  display: block;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.px-4 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.px-6{
+    height: 40px;
+    width: 80px;
+}
+
+.py-2 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 95%;
+}
+
+.py-3{
+  background-color: #000dff;
+  margin-top: 25px;
+  width: 60%;
+  margin-left: 90px;
+}
+
+.rounded-lg {
+  border-radius: 24px;
+}
+
+.border {
+  border: 1px solid #e5e7eb;
+}
+
+.focus\:ring-2:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(115, 65, 255, 0.5);
+}
+
+.focus\:ring-primary-500:focus {
+  border-color: transparent;
+}
+
+.bg-primary-500 {
+  background-color: rgb(115, 65, 255);
+  color: white;
+}
+
+.hover\:bg-primary-600:hover {
+  background-color: rgb(99, 27, 255);
+}
+
+.transform {
+  transform: scale(1);
+}
+
+.hover\:scale-105:hover {
+  transform: scale(1.05);
+}
+
+.transition-all {
+  transition: all 0.15s ease-in-out;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.gap-4 {
+  gap: 16px;
+  padding-right: 20px;
+}
+
+.mt-8 {
+  margin-top: 32px;
+}
+
+.bg-neutral-50 {
+  background-color: rgb(247, 247, 247);
+}
+
+.p-6 {
+  padding: 24px;
+}
+
+.text-xl {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.mb-4 {
+  margin-bottom: 16px;
+}
+
+.min-h-\[200px\] {
+  min-height: 200px;
+}
+
+.text-neutral-500 {
+  color: rgb(153, 153, 153);
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+}
+
+.download-button {
+  display: block;
+  margin-top: 16px;
+}

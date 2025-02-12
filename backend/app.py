@@ -66,7 +66,7 @@ import pandas as pd
 # Initialize NVIDIA AI client with the new API key
 client = ChatNVIDIA(
     model="meta/llama-3.3-70b-instruct",
-    api_key="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",
+    api_key="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",
     temperature=0.2,
     top_p=0.7,
     max_tokens=1024,
